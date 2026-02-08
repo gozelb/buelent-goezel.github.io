@@ -1,4 +1,4 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="160" align="center">
       <img src="Joke_432_Full.png" width="140" style="border-radius: 50%;" />
