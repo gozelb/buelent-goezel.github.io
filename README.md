@@ -101,6 +101,6 @@ High-throughput screening and drug discovery
 
 ## Contact
 
-📧 📧 rev(tnelub)[at]gozel.ch  
+📧 rev(tnelub)[at]gozel.ch  
 🔗 GitHub: buelent-goezel.github.io  
 🔗 [LinkedIn](https://www.linkedin.com/in/bülent-gözel-45029863/)
