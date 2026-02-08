@@ -1,12 +1,17 @@
-<img src="Joke_432_Full.png" alt="Profile picture" width="140" style="border-radius: 50%;" />
-# Bülent Gözel
-
-**Medical Researcher → Python Developer**  
-Building data-driven and AI-powered tools to modernize medical workflows.
-
-📍 Bern, Switzerland  
-🐍 Python • FastAPI • Data Analysis • Automation • AI-assisted systems
-
+<table>
+  <tr>
+    <td width="160" align="center">
+      <img src="Joke_432_Full.png" width="140" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <h1>Bülent Gözel, PhD</h1>
+      <strong>Medical Researcher → Python Developer</strong><br>
+      Building data-driven and AI-powered tools to modernize medical workflows.<br><br>
+      📍 Bern, Switzerland<br>
+      🐍 Python · FastAPI · Data Analysis · Automation · AI-assisted systems
+    </td>
+  </tr>
+</table>
 ---
 
 ## About
