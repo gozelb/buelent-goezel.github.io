@@ -1,3 +1,4 @@
+<img src="Joke_432_Full.png" alt="Profile picture" width="140" style="border-radius: 50%;" />
 # Bülent Gözel
 
 **Medical Researcher → Python Developer**  
