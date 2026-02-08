@@ -1,9 +1,9 @@
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="160" align="center", valign="middle">
+    <td width="160" align="center" valign="middle" style="border: none">
       <img src="Joke_432_Full.png" width="140" style="border-radius: 50%;" />
     </td>
-    <td valign="middle">
+    <td valign="middle" style="border: none">
       <h1>Bülent Gözel, PhD</h1>
       <strong>Medical Researcher → Python Developer</strong><br>
       Building data-driven and AI-powered tools to modernize medical workflows.<br><br>
